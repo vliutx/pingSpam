@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  LoginViewController.swift
 //  Ping Spam
 //
 //  Created by Vincent Liu on 12/13/20.
